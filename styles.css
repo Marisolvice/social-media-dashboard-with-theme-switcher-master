@@ -22,6 +22,8 @@ body {
 .dashboard_principal {
   max-width: 1200px;
   margin: 0 auto;
+  color: black;
+  background-color: white;
 }
 .header {
   display: flex;
